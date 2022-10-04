@@ -1,0 +1,6 @@
+#Bíbliotecas necessárias
+sudo apt install libmysqlclient-dev
+
+sudo apt install python3-dev
+
+# para cada projeto criamos um arquivo "forms.py" que contem todos os formularios do projeto

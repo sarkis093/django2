@@ -1,0 +1,6 @@
+django - projeto django
+whitenoise - publicacao na internet, arquivos staticos
+gunicorn - rodar o servidor python
+django-bootstrap4 - deixar mais "bunitinho"
+PyMySQL - DB
+django-stdimage - facilita trabalhar com imagens

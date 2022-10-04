@@ -1,0 +1,6 @@
+sudo docker build -t <IMAGE> .
+
+docker run -d -t -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=django2 -e MYSQL_USER=usuario -e MYSQL_PASSWORD=usuario <IMAGE>
+
+docker exec -it <container_id> bash
+
